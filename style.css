@@ -1,0 +1,22 @@
+#covid{
+    background-color: lightsalmon;
+    padding: auto;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(53, 3, 11);
+}
+#btn{
+    font-size: larger;
+    color: lightgrey;
+    background-color: darkolivegreen;
+}
+#cname{
+    font-size: larger;
+}
+body{
+    background-color: rgb(202, 219, 219);
+}
